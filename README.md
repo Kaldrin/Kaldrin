@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kaldrin
+- 👋 Hi, I’m @Kaldrin, I'm a French artist & game maker, a dreamer shaping the worlds of my mind through art & games!
 - 👀 I’m interested in Game dev, game design, art, architecture, 
 - 🌱 I’m currently learning Unity more in depth, 2D concept art and Blender
 - 📫 You can reach me through Twitter, Instagram, Facebook, mail...
